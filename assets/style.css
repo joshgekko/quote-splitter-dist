@@ -1,0 +1,14 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  background: #f9fafb;
+  color: #111827;
+}
+
+button {
+  cursor: pointer;
+}
+
+input, textarea, select, button {
+  font-family: inherit;
+}
